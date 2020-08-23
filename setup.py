@@ -44,7 +44,7 @@ setup(
         "myst-parser~=0.12.1",
         "docutils>=0.15",
         "sphinx>=2,<4",
-        "jupyter_sphinx~=0.2.4",
+        "jupyter_sphinx>=0.2.4",
         "jupyter-cache~=0.4.0",
         "ipython",
         "nbformat~=5.0",
